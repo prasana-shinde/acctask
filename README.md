@@ -6,7 +6,7 @@ Task given by Applied Cloud Computing (1 - connection between nodejs &amp; datab
 ->Create a table in your database named user with following query :
   create table user(user_name varchar(15) primary key,password varchar(70) not null);
 
-->Run the server in test mode with 'npm test' or in normal mode with 'node server'.
+->Run the server in test mode with 'npm test' or in normal mode with 'node server'.(Make sure that all the dependencies are installed using 'npm init' command before running the server)
 
 ->Check the data in the user table by running this query in sql software :
   select * from user;
