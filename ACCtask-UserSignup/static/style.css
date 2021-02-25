@@ -1,0 +1,26 @@
+body{
+    background-color: rgba(231, 231, 231, 0.877);
+}
+
+.reg-container{
+    background-color: gainsboro;
+    border-radius: 2rem;
+    border: 0.2rem solid grey;
+    padding: 4rem;
+}
+
+.center{
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.centerh{
+    margin: 0;
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
