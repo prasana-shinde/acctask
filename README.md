@@ -8,5 +8,7 @@ Task given by Applied Cloud Computing (1 - connection between nodejs &amp; datab
 
 ->Run the server in test mode with 'npm test' or in normal mode with 'node server'.(Make sure that all the dependencies are installed using 'npm init' command before running the server)
 
+->Access the webpage on 'localhost:8080'.
+
 ->Check the data in the user table by running this query in sql software :
   select * from user;
